@@ -1,6 +1,8 @@
 ### hi there!
 
+<!-- commented this, as makes little sense now that "default emoji" has been deleted...
 i dislike emojis.
+-->
 
 i'm currently learning gitHub stuff, so please be patient with me...
 
